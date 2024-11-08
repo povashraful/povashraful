@@ -2,11 +2,13 @@
 
 # 🏄‍♂️ povashrafulhossain  -> Md. Ashraful Hossain
 
-**`Just an individual who wants to make our surroundings a better place to live in`**
+**`Just an individual who wants to make this Earth a better place to live in`**
+
+
 
 Hello There ! 👋 
 
-My Name is Md. Ashraful Hossain, a recent Computer Science and Engineering graduate from Bangladesh University of Business and Technology [BUBT](https://bubt.edu.bd/). I am current working as a Research Assistant under AMIR Lab for the last 1.5 years right now. My research interest inlcudes - Machine Learning | Deep Learning | Computer Vision | Robotics | Healthcare.<br/>
+My Name is Md. Ashraful Hossain, a recent Computer Science and Engineering graduate from Bangladesh University of Business and Technology [BUBT](https://bubt.edu.bd/). I am current working as a Research Assistant @[AMIR-Lab](https://www.linkedin.com/company/amirlab/) for the last 1.5 years right now. My research interest inlcudes - Machine Learning | Deep Learning | Computer Vision | Robotics | Healthcare.<br/>
 
 If you want to know more about me, visit my website @ [Google Sites](https://sites.google.com/view/povashrafulhossain)!<br/>
 
@@ -24,6 +26,7 @@ I also try to post vlogs sometimes @ [Medium](https://povashraful.medium.com/)!<
 # 📺 Featured YouTube Videos
 
 [![TrafficVision-BD Project Proposal](https://ytcards.demolab.com/?id=KqDPBnMs-wE&title=TrafficVision-BD+Project+Proposal&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "TrafficVision-BD Project Proposal")](https://www.youtube.com/watch?v=KqDPBnMs-wE)
+
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
