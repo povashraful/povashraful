@@ -2,7 +2,7 @@
 
 # 🏄‍♂️ povashrafulhossain  -> Md. Ashraful Hossain
 
-**`Just an individual who wants to make this Earth a better place to live in`**
+**`Just an individual who wants to make our surroundings a better place to live in`**
 
 Hello There ! 👋 
 
