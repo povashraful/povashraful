@@ -7,6 +7,8 @@
 
 
 Hello There ! 👋 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 My Name is Md. Ashraful Hossain, a recent Computer Science and Engineering graduate from Bangladesh University of Business and Technology [BUBT](https://bubt.edu.bd/). I am current working as a Research Assistant @[AMIR-Lab](https://www.linkedin.com/company/amirlab/) for the last 1.5 years right now. My research interest inlcudes - Machine Learning | Deep Learning | Computer Vision | Robotics | Healthcare.<br/>
 
