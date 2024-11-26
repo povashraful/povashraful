@@ -37,9 +37,6 @@ I also try to post vlogs sometimes @ [Medium](https://povashraful.medium.com/)!<
 
 
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=ashrafulwork&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 
 <!-- END YOUTUBE-CARDS -->
 
