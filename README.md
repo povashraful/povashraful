@@ -28,7 +28,7 @@ I also try to post vlogs sometimes @ [Medium](https://povashraful.medium.com/)!<
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br/><br/>
 
 
 # 📺 Featured YouTube Videos
