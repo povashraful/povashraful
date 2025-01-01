@@ -38,8 +38,7 @@ I also try to post vlogs sometimes @ [Medium](https://povashraful.medium.com/)!<
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
 [![TrafficVisionBD Project Proposal](https://ytcards.demolab.com/?id=QPipnka0E7Q&title=TrafficVisionBD+Project+Proposal&lang=en&timestamp=1731494400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "TrafficVisionBD Project Proposal")](https://www.youtube.com/watch?v=QPipnka0E7Q&t=389s)
-
-[![SegX-Net: A novel image segmentation approach for contrail detection using deep learning](https://ytcards.demolab.com/?id=4zr3kRPjJ9o&title=SegX-Net: A novel image segmentation approach for contrail detection using deep learning&lang=en&timestamp=1732770000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "SegX-Net:+A+novel+image+segmentation+approach+for+contrail+detection+using+deep+learning.")](https://www.youtube.com/watch?v=4zr3kRPjJ9o&t=1s)
+[![SegX-Net:+A+novel+image+segmentation+approach+for+contrail+detection+using+deep+learning](https://ytcards.demolab.com/?id=4zr3kRPjJ9o&title=TrafficVisionBD+Project+Proposal&lang=en&timestamp=1732770000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "SegX-Net:+A+novel+image+segmentation+approach+for+contrail+detection+using+deep+learning.")](https://www.youtube.com/watch?v=4zr3kRPjJ9o&t=1s)
 
 
 
