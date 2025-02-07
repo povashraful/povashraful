@@ -20,7 +20,7 @@ I also try to post vlogs sometimes @ [Medium](https://povashraful.medium.com/)!<
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 
 
