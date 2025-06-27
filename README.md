@@ -17,6 +17,10 @@ And, if you want to see my projects in actions visit @  [YouTube](https://www.yo
 I also try to post vlogs sometimes @ [Medium](https://povashraful.medium.com/)!<br/>
 
 
+*** Current Activities (For 2025) ***
+1) Currently I am focused on revising/ learning frameworks (Tensorflow (& keras) and PyTorch)
+2) Implementing/ Reproducing research papers
+3) Open Source Contributions (solving / trying out newer Deep Learning models)
 
 <br><br><br><br><br><br><br><br><br>
 
