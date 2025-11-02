@@ -1,8 +1,8 @@
 
 
-# 🏄‍♂️ povashrafulhossain  -> Md. Ashraful Hossain
+# 🏄‍♂️ povashrafulhossain  -> Md Ashraful Hossain
 
-**`Just an individual who wants to make this Earth a better place to live in`**
+**`Trying to become the best version of myself everyday`**
 
 
 
