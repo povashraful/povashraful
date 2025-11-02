@@ -8,7 +8,11 @@
 
 Hello There ! 👋 
 
-My Name is Md. Ashraful Hossain, a recent Computer Science and Engineering graduate from Bangladesh University of Business and Technology [BUBT](https://bubt.edu.bd/). I am current working as a Research Assistant @[AMIR-Lab](https://www.linkedin.com/company/amirlab/) for the last 1.5 years right now. My research interest inlcudes -  Deep Learning | Computer Vision.<br/>
+My Name is Ashraful, a computer science graduate working on deep learning and computer vision at @[AMIR-Lab](https://www.linkedin.com/company/amirlab/). I like looking at the world through a machine’s eyes and share my journey and experience along the way!
+<br>
+
+My research interest inlcudes -  Deep Learning | Computer Vision.<br/>
+
 
 If you want to know more about me, visit my website @ [Google Sites](https://sites.google.com/view/povashrafulhossain)!<br/>
 
