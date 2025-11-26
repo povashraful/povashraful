@@ -42,6 +42,7 @@ I also try to post vlogs sometimes @ [Medium](https://povashraful.medium.com/)!<
 [![SegX-Net: A+novel image segmentation approach for contrail detection using+deep learning](https://ytcards.demolab.com/?id=4zr3kRPjJ9o&title=SegX-Net:+A+novel+image+segmentation+approach+for+contrail+detection+using+deep+learning&lang=en&timestamp=1732770000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "SegX-Net:+A+novel+image+segmentation+approach+for+contrail+detection+using+deep+learning.")](https://www.youtube.com/watch?v=4zr3kRPjJ9o&t=1s)
 [![Cervical Cancer Classification Project Update](https://ytcards.demolab.com/?id=mJ_tJs8imUg&title=Cervical+Cancer+Classification+Project+Update&lang=en&timestamp=1738972800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Cervical Cancer Classification Project Update")](https://www.youtube.com/watch?v=mJ_tJs8imUg&t=10s)
 
+[![How to Create Your Own Python Library](https://ytcards.demolab.com/?id=E-Ihvn-zjl8&title=How+to+Create+Your+Own+Python+Library&lang=en&timestamp=1750464000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1122 "How to Create Your Own Python Library")](https://www.youtube.com/watch?v=E-Ihvn-zjl8&t=117s)
 
 <!-- END YOUTUBE-CARDS -->
 
