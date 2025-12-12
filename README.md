@@ -14,7 +14,7 @@ My Name is Ashraful, a computer science graduate working on deep learning and co
 My research interest inlcudes -  Deep Learning | Computer Vision.<br/>
 
 
-If you want to know more about me, visit my website @ [Google Sites](https://sites.google.com/view/povashrafulhossain)! or visit my scholar profile @  [Google Scholar](https://scholar.google.com/citations?user=YgbPBWIAAAAJ&hl=en
+If you want to know more about me, visit my website    @[GutHub Page](https://povashraful.github.io/ )! or visit my scholar profile @  [Google Scholar](https://scholar.google.com/citations?user=YgbPBWIAAAAJ&hl=en
 ) <br>
 
 And, if you want to see my work in actions visit @  [YouTube](https://www.youtube.com/@povashraful)!<br/>
