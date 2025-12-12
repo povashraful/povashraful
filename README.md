@@ -19,6 +19,8 @@ If you want to know more about me, visit my website @ [Google Sites](https://sit
 
 And, if you want to see my work in actions visit @  [YouTube](https://www.youtube.com/@povashraful)!<br/>
 
+or you can also see what I am currently / planning to implement @  [Notion Webpage](https://povashraful.notion.site/sotaimplementation?source=copy_link)!<br/>
+
 I also try to post vlogs sometimes @ [Medium](https://povashraful.medium.com/)!<br/>
 
 
