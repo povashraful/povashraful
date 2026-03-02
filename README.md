@@ -8,10 +8,10 @@
 
 Hello There ! 👋 
 
-My Name is Ashraful, a computer science graduate working on deep learning and computer vision at @[AMIR-Lab](https://www.linkedin.com/company/amirlab/). I like looking at the world through a machine’s eyes and share my journey and experience along the way!
+I’m Ashraful, a Master’s student in Autonomous Systems with a focus on deep learning, computer vision, and robotics. I enjoy looking at the world through a machine’s eyes and sharing my learning journey along the way.
 <br>
 
-My research interest inlcudes -  Deep Learning | Computer Vision.<br/>
+My research interest includes -  Deep Learning | Computer Vision.<br/>
 
 
 If you want to know more about me, visit my website @ [GitHub Page](https://povashraful.github.io/ )! or visit my scholar profile @  [Google Scholar](https://scholar.google.com/citations?user=YgbPBWIAAAAJ&hl=en
