@@ -8,7 +8,7 @@
 
 Hello There ! 👋 
 
-I’m Ashraful, a Master’s student in Autonomous Systems with a focus on deep learning, computer vision, and robotics. I enjoy looking at the world through a machine’s eyes and sharing my learning journey along the way.
+I’m Ashraful, a Master’s student currently studying Autonomous Systems with a focus on deep learning, computer vision, and robotics. I enjoy looking at the world through a machine’s eyes and sharing my learning journey along the way.
 <br>
 
 My research interest includes -  Deep Learning | Computer Vision.<br/>
